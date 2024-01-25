@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: black;
+    background: rgb(200, 159, 159);
 }
 .card{
     width: 90%;
